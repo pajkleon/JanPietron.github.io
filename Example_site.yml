@@ -4,5 +4,3 @@ nawbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Second Page"
-      href: second_page.html
