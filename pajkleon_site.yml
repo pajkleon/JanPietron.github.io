@@ -1,0 +1,6 @@
+name: "my-website"
+nawbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: Example_index.html
