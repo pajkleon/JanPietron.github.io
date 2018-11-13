@@ -1,0 +1,8 @@
+name: "my-website"
+nawbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Second Page"
+      href: second_page.html
