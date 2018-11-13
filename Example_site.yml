@@ -3,4 +3,4 @@ nawbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: index.html
+      href: Example_index.html
